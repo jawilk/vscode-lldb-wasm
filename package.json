@@ -1,0 +1,11 @@
+{
+  "name": "vscode-lldb-wasm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "types": "./index.d.ts",
+  "devDependencies": {
+    "@types/es6-promise": "^3.3.0"
+  },
+  "dependencies": {}
+}
